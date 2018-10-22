@@ -12,8 +12,6 @@ end
 
 roll_call_dwarves(dwarves)
 
-
-
 def summon_captain_planet(array)
   nu_array = []
   i = 0 
@@ -25,7 +23,6 @@ def summon_captain_planet(array)
 end
 
 summon_captain_planet(planeteer_calls)
-
 
 def long_planeteer_calls(array) 
   i = 0 
@@ -39,10 +36,8 @@ end
 
 long_planeteer_calls(call_screams)
 
-
 cheese_types = ["cheddar", "gouda", "camembert"]
 snacks = ["crackers", "gouda", "thyme"]
-
 
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
